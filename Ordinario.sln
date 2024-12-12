@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35514.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordinario", "Ordinario\Ordinario\Ordinario.csproj", "{8C944A7A-9F24-4CDC-A739-C27715DE64CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ordinario.Client", "Ordinario\Ordinario.Client\Ordinario.Client.csproj", "{E0BC85F3-9647-4C00-898A-D04145DD385F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C944A7A-9F24-4CDC-A739-C27715DE64CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C944A7A-9F24-4CDC-A739-C27715DE64CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C944A7A-9F24-4CDC-A739-C27715DE64CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C944A7A-9F24-4CDC-A739-C27715DE64CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0BC85F3-9647-4C00-898A-D04145DD385F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0BC85F3-9647-4C00-898A-D04145DD385F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0BC85F3-9647-4C00-898A-D04145DD385F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0BC85F3-9647-4C00-898A-D04145DD385F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
